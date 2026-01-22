@@ -37,7 +37,7 @@
  </h3> 
    
 <h3 align="center">
-   Bases de datos
+  🗄️ Bases de datos
   <br>
   <img src="https://skillicons.dev/icons?i=html,css,js,py"/>
  </h3> 
