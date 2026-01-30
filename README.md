@@ -17,48 +17,56 @@
 
 <h3 align="center">
   <img src="https://skillicons.dev/icons?i=vscode,pycharm,kotlin,git,github"/>
- <br>
+</h3>
+  
+<h3 align="center">
   💻 Desarrollo
-  <br>
+</h3>
+
+<h3 align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,py,java,arduino"/>
- </h3> 
+</h3> 
 
 <h3 align="center">
   📱 Moviles
-  <br>
+</h3>
+
+<h3 align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,py"/>
- </h3> 
+</h3> 
 
 <h3 align="center">
   🗄️ Bases de datos
-  <br>
+</h3>
+
+<h3 align="center">
   <img src="https://skillicons.dev/icons?i=firebase,mysql"/>
- </h3> 
+</h3> 
 
 <h3 align="center">
   📱 Framework
-  <br>
+</h3>
+
+<h3 align="center">
   <img src="https://skillicons.dev/icons?i=bootstrap,flask"/>
- </h3>
+</h3>
  
 <h3 align="center">
   📱 API
-  <br>
-  <img src="https://skillicons.dev/icons?i=postman"/>
- </h3> 
-   
+</h3>
 
+<h3 align="center">
+  <img src="https://skillicons.dev/icons?i=postman"/>
+</h3> 
  
 <h3 align="center">
   🗄️ Modelos 3D
-  <br>
-  <img src="https://skillicons.dev/icons?i=sketchup,autocad"/>
- </h3> 
-| <img src="https://skillicons.dev/icons?i=html,css,js,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> |
+</h3>
 
-💻 Python | Java | Kotlin | JavaScript  
-📱 Android | Backend | Bases de datos 
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+<h3 align="center">
+  <img src="https://skillicons.dev/icons?i=sketchup,autocad"/>
+</h3> 
+
 🔭 Actualmente trabajando en proyectos de:
 - Aplicaciones Android
 - Análisis de datos
@@ -66,5 +74,5 @@
 
 
 📫 Contacto:
-- LinkedIn: https://linkedin.com/in/tuusuario
-- Email: tuemail@gmail.com
+- LinkedIn: https://www.linkedin.com/in/tito-aguirre-233649319/
+- Email: tito95adrian@gmail.com
