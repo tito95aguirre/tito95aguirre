@@ -25,9 +25,11 @@
 </h3>
 
 <h3 align="center">
- 💻 Desarrollo
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,apache,git,github"/>
+ <br>
+  💻 Desarrollo
   <br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,py"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,py,flask,java,arduino"/>
  </h3> 
 
 <h3 align="center">
@@ -35,13 +37,24 @@
   <br>
   <img src="https://skillicons.dev/icons?i=html,css,js,py"/>
  </h3> 
+
+<h3 align="center">
+  📱 API
+  <br>
+  <img src="https://skillicons.dev/icons?i=postman"/>
+ </h3> 
    
 <h3 align="center">
   🗄️ Bases de datos
   <br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,py"/>
+  <img src="https://skillicons.dev/icons?i=firebase,mysql"/>
  </h3> 
-
+ 
+<h3 align="center">
+  🗄️ Modelos 3D
+  <br>
+  <img src="https://skillicons.dev/icons?i=sketchup,autocad"/>
+ </h3> 
 | <img src="https://skillicons.dev/icons?i=html,css,js,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> |
 
 💻 Python | Java | Kotlin | JavaScript  
